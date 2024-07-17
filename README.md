@@ -1,4 +1,2 @@
 # CTF
-## web
-### inspect
-  - wget -m -p -E -k -K -np HOST_URL
+this repo created for saveing leared things from CTF chalanges.
