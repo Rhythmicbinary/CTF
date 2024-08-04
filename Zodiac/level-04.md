@@ -1,7 +1,7 @@
-url:‌ https://z.voorivex.academy/EZhLOYrqe5/
+url:‌ https://z.voorivex.academy/EZhLOYrqe5
 hint: Deeper dark, seek further?
 
-next level url :‌ "https://z.voorivex.academy/uAR0b1n0yV/"
+next level url :‌ https://z.voorivex.academy/uAR0b1n0yV
 
 > how can find this ?
 

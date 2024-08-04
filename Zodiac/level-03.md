@@ -1,7 +1,7 @@
-url:‌ https://z.voorivex.academy/gNQQW0C3IQ/
+url:‌ https://z.voorivex.academy/gNQQW0C3IQ
 hint: Search meticulously, every corner... Zodiac is watching...
 
-next level url :‌ "https://z.voorivex.academy//EZhLOYrqe5/"
+next level url :‌ https://z.voorivex.academy//EZhLOYrqe5
 
 > how can find this ?
 

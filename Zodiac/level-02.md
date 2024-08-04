@@ -1,7 +1,7 @@
-url:‌ https://z.voorivex.academy/level-02/
+url:‌ https://z.voorivex.academy/level-02
 hint: Secret whispers in the shadows... buried beneath the surface
 
-next level url :‌ "https://z.voorivex.academy/gNQQW0C3IQ/"
+next level url :‌ https://z.voorivex.academy/gNQQW0C3IQ
 
 > how can find this ?
 inspect page and view html source.
