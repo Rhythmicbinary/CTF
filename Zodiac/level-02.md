@@ -6,4 +6,4 @@ next level url :‌ https://z.voorivex.academy/gNQQW0C3IQ
 > how can find this ?
 inspect page and view html source.
 <br>
-![inspect](img/level-02.png)
+![inspect](img/level-02-0.png)
